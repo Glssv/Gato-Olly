@@ -1,10 +1,10 @@
-# Desafio Estudonauta | fazer um site
+# Gato-Olly | Desafio Estudonauta
+
+Estou estudando no Estudonauta, um curso do Gustavo Guanabara. Lembro que no curso em vídeo (que também é dele) tínhamos que criar esse site. Então, aqui estou eu de novo, não só refazendo o site, mas também dando uma nova cara ao que fiz há um ano atrás. 
 
 O Guanabara sempre nos encoraja a experimentar, a tentar coisas novas para ver no que dá. Inspirado por isso, decidi reformular completamente o site. Adicionei vários links no menu de navegação, pois ele só ensina a página inicial, que neste projeto seria a parte de "Cuidados Essenciais".
 
-Há um ano, criei um site semelhante a este, mas com cores e conteúdos diferentes, bem distintos do que estou fazendo agora, e claro,seguindo as orientações do Guanabara. vou deixar o link dos dois para quem quiser ver
-
-### Mostrando os dois sites feitos, o antigo e esse novo:
+### Mostrando os dois sites feitos
 
 ## Gato Mania:
  um site que fala sobre gatos também, porém tem uma paleta de cores e fontes horriveis KKKKKK [clique aqui pra ver o gato mania](https://gatomania.netlify.app/) 
