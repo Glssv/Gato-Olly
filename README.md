@@ -1,8 +1,8 @@
-# Gato-Olly | Desafio Estudonauta
-
-Estou estudando no Estudonauta, um curso do Gustavo Guanabara. Lembro que no curso em vídeo (que também é dele) tínhamos que criar esse site. Então, aqui estou eu de novo, não só refazendo o site, mas também dando uma nova cara ao que fiz há um ano atrás. 
+# Desafio Estudonauta | fazer um site
 
 O Guanabara sempre nos encoraja a experimentar, a tentar coisas novas para ver no que dá. Inspirado por isso, decidi reformular completamente o site. Adicionei vários links no menu de navegação, pois ele só ensina a página inicial, que neste projeto seria a parte de "Cuidados Essenciais".
+
+Há um ano, criei um site semelhante a este, mas com cores e conteúdos diferentes, bem distintos do que estou fazendo agora, e claro,seguindo as orientações do Guanabara. vou deixar o link dos dois para quem quiser ver
 
 ### Mostrando os dois sites feitos, o antigo e esse novo:
 
@@ -19,7 +19,7 @@ aqui ta a nova versão do site, para saber um pouco mais sobre esse e o gato man
 - repositorio do [Gato Olly](https://github.com/Glssv/Gato-Olly)
 
 ---
-## Estou muito orgulhosa do que fiz, e a maior parte foi feita completamente por mim. Claro, em alguns momentos pedi ajuda, mas ainda assim estou orgulhosa do meu progresso e evolução.
+### Estou muito orgulhosa do que fiz, e a maior parte foi feita completamente por mim. Claro, em alguns momentos pedi ajuda, mas ainda assim estou orgulhosa do meu progresso e evolução.
 
 ## Nesta nova versão, optei por:
 - paleta de cores diferentes  
