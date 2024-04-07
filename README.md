@@ -7,31 +7,37 @@ O Guanabara sempre nos encoraja a experimentar, a tentar coisas novas para ver n
 ### Mostrando os dois sites feitos
 
 ## Gato Mania:
- um site que fala sobre gatos também, porém tem uma paleta de cores e fontes horriveis KKKKKK [clique aqui pra ver o gato mania](https://gatomania.netlify.app/) 
+ Imagine um site sobre gatos, mas com cores e fontes que fazem até o mais despreocupado dos gatos soltar um miau de desaprovação. É, preciso urgente de um curso UI/UX design antes que eu seja banida da comunidade dev! KKKKKK [clique aqui pra ver o site gato mania](https://gatomania.netlify.app/) 
 
- - repositorio do [Gato Mania](https://github.com/Glssv/Site-GatoMania)
+ * repositorio do [Gato Mania](https://github.com/Glssv/Site-GatoMania)
 
 ---
 
 ## Gato Olly:
-aqui ta a nova versão do site, para saber um pouco mais sobre esse e o gato mania só ler o readme dos dois repositorios que tem tudo explicadinho. [clique aqui para ver o gato olly](https://gato-olly.netlify.app/)
+Aqui está a versão mais recente do site! Com novas paletas de cores, fontes e conteúdo novo. Para descobrir mais sobre este projeto e o projeto 'Gato Mania', basta conferir os READMEs dos dois repositórios, onde tudo está explicadinho. [clique aqui para ver o site gato olly](https://gato-olly.netlify.app/)
 
-- repositorio do [Gato Olly](https://github.com/Glssv/Gato-Olly)
+* repositorio do [Gato Olly](https://github.com/Glssv/Gato-Olly)
 
 ---
 ### Estou muito orgulhosa do que fiz, e a maior parte foi feita completamente por mim. Claro, em alguns momentos pedi ajuda, mas ainda assim estou orgulhosa do meu progresso e evolução.
 
-## Nesta nova versão, optei por:
-- paleta de cores diferentes  
-- conteúdo diferente
-- fontes novas
-- além de incluir novos vídeos e fotos.
 
-## Como é o projeto original
-<h2 align="center">
-  <img src="imagens/ideia do projeto.png" width="600">
-  <img src="imagens/projeto.png" width="600">
-</h2>
+## E qual a proposta do desafio? 
+
+### A proposta do desafio é criar uma página com as seguintes características:
+
+* Um cabeçalho com tons degradê.
+* Um menu simples.
+* Um artigo com títulos, imagens, vídeos e conteúdo relacionado.
+* Uma lista com marcadores personalizados.
+* Links externos identificados com emojis.
+* Um rodapé com links.
+
+## Nesta nova versão, optei por:
+* Paleta de cores diferentes.  
+* Conteúdo diferente.
+* Fontes novas.
+* Além de incluir novas fotos e vídeos.
 
 ## Como eu comecei o MEU projeto baseado nesse do guanabara?
 
@@ -45,7 +51,7 @@ Comecei escolhendo uma paleta de cores. Após ver algumas opções no Pinterest 
 
 ### Conteúdo diferente 
 bem, eu resolvi fazer esse site com uma coisa que eu amo: GATOS <br>
-Então, pensei: "Por que não fazer um site como se fosse o diário de um gato?" E assim fiz a primeira página, onde Olly (meu gato) se apresenta e fala um pouco sobre ele, e ele fala que vai compartilhar seu diário conosco, dando dicas e compartilhando vídeos engraçados de gatinhos.
+Então, pensei: "Por que não fazer um site como se fosse o diário de um gato?" E assim fiz a primeira página, onde Olly (meu gato) se apresenta e fala um pouco sobre ele, e ele fala que vai compartilhar seu diário conosco, dando dicas e compartilhando vídeos engraçados de gatinhos para mamães e papais de pets de primeira viagem.
 
 ## Fontes usadas
  - fonte-padrao:'Nunito', sans-serif;
