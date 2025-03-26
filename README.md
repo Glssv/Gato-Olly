@@ -57,22 +57,6 @@ Então, pensei: "Por que não fazer um site como se fosse o diário de um gato?"
  - fonte-padrao:'Nunito', sans-serif;
  - fonte-destaque: 'candara';
 
-## Arquitetura MV
-```
-
-  📁 Gato-Olly
-  |       
-  |-  📁 css
-  |-  📁 imagens       
-  |-  📄 gatinho0.html
-  |-  📄 gatinho2.html
-  |-  📄 gatinho1.html
-  |-  📄 index.html   
-  |-  📄 README.md 
- 
-
-  ```
-
 Mais uma vez venho aqui dizer que estou extremamente orgulhosa de mim! obrigada guanabara por me ensinar tanto 🧡
 
 ---
